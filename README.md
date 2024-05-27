@@ -20,6 +20,6 @@ This assignment has a *Backend code* in nodejs, a *Frontend code* in React and i
 - Add a goal and refresh the page, the you will notice that data is persisting
 
 4. Docker-compose
-- Short down mongodb and delete the image
+- Shut down mongodb and delete the image
 - Terminate the frontend and the backend from running
 - Build a *docker-compose* file for this setup so as to ease the deployment of the application, then run the docker-compose file and make sure the application runs as intended.
