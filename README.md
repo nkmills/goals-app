@@ -2,7 +2,7 @@ This assignment has a *Backend code* in nodejs, a *Frontend code* in React and i
 
 *Tasks to do*
 
-1. Rund MongoDB container with the following run command
+1.Run MongoDB container with the following run command
 - *docker run -d -p 27017:27017 --name mongodb --rm mongo*
 - Don't bother about environment variables because the connection has been made in the application already
 
